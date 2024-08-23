@@ -1,0 +1,51 @@
+table{
+    width: 70%;
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+th, td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    text-align: center;
+    font-size: 13px;
+}
+
+th, .int{
+    background-color: #ddd;
+    color: black;
+}
+
+.int{
+    font-style: italic;
+}
+
+td{
+    color: white;
+}
+
+.tec{
+    background-color: #222;
+}
+
+.mat{
+    background-color:#683278
+}
+
+.ling{
+    background-color: #b03029;
+}
+
+.ch{
+    background-color: #de7a0f;
+}
+
+.cn{
+    background-color: #2f62cf;
+}
+
+.pv{
+    background-color: #209920;
+}
